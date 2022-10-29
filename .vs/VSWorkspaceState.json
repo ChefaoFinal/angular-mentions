@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\projects",
+    "\\projects\\angular-mentions",
+    "\\projects\\angular-mentions\\src",
+    "\\projects\\angular-mentions\\src\\lib",
+    "\\projects\\demo-app",
+    "\\projects\\demo-app\\src",
+    "\\projects\\demo-app\\src\\app"
+  ],
+  "SelectedNode": "\\projects\\angular-mentions\\src\\lib\\mention-utils.ts",
+  "PreviewInSolutionExplorer": false
+}
