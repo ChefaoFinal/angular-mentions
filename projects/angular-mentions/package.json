@@ -12,6 +12,9 @@
     "type": "git",
     "url": "https://github.com/dmacfarlane/angular-mentions.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ChefaoFinal"
+  },
   "author": "Dan MacFarlane",
   "license": "MIT",
   "dependencies": {
